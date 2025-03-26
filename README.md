@@ -1,2 +1,7 @@
 # Level.Rockets-Mobius
-Avionics code for self landing rocket Mobius
+Repository for the self-landing rocket mobius
+
+Includes:
+
+-> Mobius avionics 
+-> TVC tuner app
